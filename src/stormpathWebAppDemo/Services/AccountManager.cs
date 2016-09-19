@@ -1,8 +1,6 @@
 ﻿using Stormpath.SDK;
 using Stormpath.SDK.Account;
 using Stormpath.SDK.Application;
-using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Security.Principal;
 using System.Threading.Tasks;
