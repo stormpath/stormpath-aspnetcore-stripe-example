@@ -33,6 +33,12 @@ namespace stormpathWebAppDemo.Controllers
             return View();
         }
 
+        public IActionResult Error()
+        {
+            return View();
+        }
+
+
         public IActionResult BePremium()
         {
             return View("PremiumPayment");
