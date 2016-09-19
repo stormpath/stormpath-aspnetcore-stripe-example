@@ -50,7 +50,7 @@ namespace stormpathWebAppDemo.Controllers
             else
             {
                 //TODO: Handle errors
-                return Redirect("Index");
+                return Redirect("Error");
             }
         }
     }
